@@ -1,0 +1,9 @@
+D:\Greeshma\CustomerApplication\CustomerApplication\bin\CustomerApplication.dll.config
+D:\Greeshma\CustomerApplication\CustomerApplication\bin\CustomerApplication.dll
+D:\Greeshma\CustomerApplication\CustomerApplication\bin\CustomerApplication.pdb
+D:\Greeshma\CustomerApplication\CustomerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Greeshma\CustomerApplication\CustomerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Greeshma\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.csproj.CoreCompileInputs.cache
+D:\Greeshma\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.dll
+D:\Greeshma\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.pdb
+D:\Greeshma\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.csprojResolveAssemblyReference.cache
